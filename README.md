@@ -29,6 +29,7 @@
    - Softwarequalitätssicherung
 
 ## Meine Skills
+</br>
 
 ## 🧰 Programmiersprachen & Tools
 
@@ -43,25 +44,6 @@
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-</br>
 
-
-## Projekte
-
-[Beschreiben Sie hier einige der Projekte, an denen Sie arbeiten oder gearbeitet haben, und fügen Sie Links hinzu].
-
-### Projekt 1
-
-- **Beschreibung**: [Projektbeschreibung hier]
-- **Repository**: [Link zum Repository hier]
-- **Technologien**: [Technologien, die in diesem Projekt verwendet werden]
-
-### Projekt 2
-
-- **Beschreibung**: [Projektbeschreibung hier]
-- **Repository**: [Link zum Repository hier]
-- **Technologien**: [Technologien, die in diesem Projekt verwendet werden]
-
-## Kontakt
 
 
