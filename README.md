@@ -1,8 +1,6 @@
 
 # Hallo, ich bin Martin Krueger! 👋
 
-![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)
-![GitHub stars](https://img.shields.io/github/stars/your-github-username?style=social)
 
 ## Über mich
 
