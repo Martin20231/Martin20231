@@ -20,3 +20,29 @@
 </br>
 
 ### ℹ️ Interessen und Ziele
+
+# Hallo, ich bin Martin Krueger! 👋
+
+![GitHub followers](https://img.shields.io/github/followers/your-github-username?style=social)
+![GitHub stars](https://img.shields.io/github/stars/your-github-username?style=social)
+
+## Über mich
+
+🔭 Ich arbeite gerade an verschiedenen spannenden Projekten!
+
+🌱 Ich lerne derzeit [fügen Sie hier die Technologien/Themen ein, die Sie gerade lernen].
+
+👯 Ich freue mich darauf, an Open-Source-Projekten zu arbeiten und mit anderen Entwicklern zusammenzuarbeiten.
+
+💬 Fragen Sie mich nach [fügen Sie hier Themen ein, über die Sie sprechen möchten].
+
+📫 So erreichen Sie mich: [fügen Sie hier Ihre Kontaktinformationen ein].
+
+⚡ Lustige Tatsache: [fügen Sie hier eine lustige Tatsache über sich selbst ein].
+
+## Meine Skills
+
+- **Sprachen**: [fügen Sie hier die Programmiersprachen ein, die Sie kennen].
+- **Tools**: [fügen Sie hier die Tools ein, die Sie verwenden].
+- **Frameworks/Libraries**: [fügen Sie hier die Frameworks und Bibliotheken ein, die Sie verwenden].
+- **Datenbanken**: [fügen Sie hier die Datenbanken ein, die Sie verwenden].
