@@ -38,12 +38,12 @@
 
 </br>
 
-## ℹ️ Interessen und Ziele
+## ℹ️ Interessen und Ziele <br>
 
-</br>
+
 
 In der sich ständig weiterentwickelnden Welt der Technologie bin ich von einer leidenschaftlichen Neugier getrieben, eine Vielzahl von Programmiersprachen zu meistern. Mein ultimatives Ziel ist es, eines Tages eine eigene Spieleentwicklung voranzutreiben, in der ich die erworbenen Kenntnisse und Fähigkeiten einsetzen kann, um ein einzigartiges und fesselndes Spielerlebnis zu schaffen.
 
 Mit einer Mischung aus Ehrgeiz und Begeisterung freue ich mich darauf, die Grenzen des Möglichen zu erforschen und dabei eine Spur der Innovation und des Fortschritts zu hinterlassen.
-
+</br>
 
