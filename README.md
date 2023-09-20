@@ -21,8 +21,8 @@
 ## Meine Skills
 </br>
 
-## 🧰 Programmiersprachen & Tools
-<br>
+## 🧰 Programmiersprachen & Tools <br>
+
 
 <img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 
