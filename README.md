@@ -46,11 +46,6 @@
 </br>
 
 
-
-## GitHub-Statistiken
-
-![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
 ## Projekte
 
 [Beschreiben Sie hier einige der Projekte, an denen Sie arbeiten oder gearbeitet haben, und fügen Sie Links hinzu].
