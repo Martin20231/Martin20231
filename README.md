@@ -6,7 +6,7 @@
 
 
 
-</br>
+
 </br>
 
 ### ℹ️ Interessen und Ziele
@@ -34,7 +34,9 @@
 
 ## Meine Skills
 
-- **Sprachen**:<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+- **Sprachen**:
+</br>
+<img align="left" alt="php" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 
 <img align="left" alt="css3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 
@@ -45,6 +47,8 @@
 <img align="left" alt="javascript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 <img align="left" alt="nodejs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+</br>
+
 - **Tools**: [fügen Sie hier die Tools ein, die Sie verwenden].
 - **Frameworks/Libraries**: [fügen Sie hier die Frameworks und Bibliotheken ein, die Sie verwenden].
 - **Datenbanken**: [fügen Sie hier die Datenbanken ein, die Sie verwenden].
