@@ -46,3 +46,6 @@
 - **Tools**: [fügen Sie hier die Tools ein, die Sie verwenden].
 - **Frameworks/Libraries**: [fügen Sie hier die Frameworks und Bibliotheken ein, die Sie verwenden].
 - **Datenbanken**: [fügen Sie hier die Datenbanken ein, die Sie verwenden].
+
+- ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
