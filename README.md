@@ -19,7 +19,6 @@
    - Softwarequalitätssicherung
 
 ## Meine Skills
-</br>
 
 ## 🧰 Programmiersprachen & Tools
 
