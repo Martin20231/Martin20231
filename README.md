@@ -30,7 +30,17 @@
 
 🔭 Ich arbeite gerade an verschiedenen spannenden Projekten!
 
-🌱 Ich lerne derzeit [fügen Sie hier die Technologien/Themen ein, die Sie gerade lernen].
+🌱 Ich befinde mich derzeit in einer 12-monatigen Vollzeit-Ausbildung im Bereich Cloud Computing, die mit der Prüfung für das Zertifikat “AWS Cloud Practitioner” abgeschlossen wird. Inhalte meiner Ausbildung sind:
+   - Grundlagen der Cloud-Umgebung
+   - Amazon AWS
+   - Agile Software-Entwicklung (Scrum)
+   - Cloud-Native Programmierung (Go)
+   - Cloud Monitoring & Metriken
+   - Performance-Messung
+   - Infrastructure As Code (Terraform & Ansible)
+   - Infrastrukturautomatisierung
+   - Continuous Integration & Delivery
+   - Softwarequalitätssicherung
 
 👯 Ich freue mich darauf, an Open-Source-Projekten zu arbeiten und mit anderen Entwicklern zusammenzuarbeiten.
 
@@ -47,5 +57,26 @@
 - **Frameworks/Libraries**: [fügen Sie hier die Frameworks und Bibliotheken ein, die Sie verwenden].
 - **Datenbanken**: [fügen Sie hier die Datenbanken ein, die Sie verwenden].
 
-- ![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+## GitHub-Statistiken
+
+![Martin's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+## Projekte
+
+[Beschreiben Sie hier einige der Projekte, an denen Sie arbeiten oder gearbeitet haben, und fügen Sie Links hinzu].
+
+### Projekt 1
+
+- **Beschreibung**: [Projektbeschreibung hier]
+- **Repository**: [Link zum Repository hier]
+- **Technologien**: [Technologien, die in diesem Projekt verwendet werden]
+
+### Projekt 2
+
+- **Beschreibung**: [Projektbeschreibung hier]
+- **Repository**: [Link zum Repository hier]
+- **Technologien**: [Technologien, die in diesem Projekt verwendet werden]
+
+## Kontakt
+
 
