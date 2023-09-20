@@ -1,4 +1,5 @@
-Hallo mein Name ist Martin
+## Name: Martin Krueger
+
 
 ## 🧰 Programmiersprachen & Tools
 
