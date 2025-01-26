@@ -6,9 +6,11 @@
 
 🔭 Ich arbeite gerade an verschiedenen spannenden Projekten!
 
-🌱 Ich befinde mich derzeit in einer 12-monatigen Vollzeit-Ausbildung im Bereich Cloud Computing, die mit der Prüfung für das Zertifikat “AWS Cloud Practitioner”, ”Scrum Master“ abgeschlossen wird. Inhalte meiner Ausbildung sind:
+🌱 Ich habe eine 12-monatige Vollzeit-Ausbildung im Bereich Cloud Computing absolviert, die mit den Prüfungen für die Zertifikate ‚AWS Cloud Practitioner‘ und ‚Scrum Master‘ abgeschlossen wurde. Inhalte der Ausbildung waren:
    - Grundlagen der Cloud-Umgebung
    - Amazon AWS
+   - Webentwicklung mit NodeJS und Express
+   - Grundlagen der Programmierung mit HTML, CSS und JavaScript
    - Agile Software-Entwicklung (Scrum)
    - Cloud-Native Programmierung (Go)
    - Cloud Monitoring & Metriken
